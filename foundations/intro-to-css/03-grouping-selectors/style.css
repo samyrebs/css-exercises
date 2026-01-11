@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.numba1,
+.numba2{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;    
+}
+
+.numba1{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.numba2{
+    background-color: #FFFF00;
+}
