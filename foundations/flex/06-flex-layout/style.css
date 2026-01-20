@@ -38,6 +38,10 @@ body {
 img {
   width: 600px;
 }
+.mainCards{
+  display:flex;
+  flex-wrap: wrap;
+}
 
 button {
   font-family: Roboto, sans-serif;
